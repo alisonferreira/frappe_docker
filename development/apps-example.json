@@ -4,7 +4,7 @@
     "branch": "version-14.33"
   },
   {
-    "url": "https://github.com/frappe/hrms",
+    "url": "https://github.com/frappe/hrms.git",
     "branch": "version-14.9"
   }
 ]
